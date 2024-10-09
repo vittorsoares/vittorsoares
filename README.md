@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Vitor 👋
 
 - 🌱 Estudando Desenvolvimento Web
-- 🎓 Cursando ADS (3° semestre)
+- 🎓 Cursando ADS (4° semestre)
 - 😄 Pronemes: ele/dele
 
  <div>
