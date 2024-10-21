@@ -1,6 +1,6 @@
 ### Olá, eu sou o João Vitor 👋
 
-- 🌱 Estudando Desenvolvimento Web
+- 🌱 Estudante de TI apaixonado por Programação e Matemática
 - 🎓 Cursando ADS (4° semestre)
 - 😄 Pronemes: ele/dele
 
